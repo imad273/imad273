@@ -48,6 +48,12 @@ My name is emad abbad and I'm a frontend developer. I'm from Algeria.
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" 
    alt="chartjs" width="40" height="40" /> </a>
 </p>
+
+## 💬 Contact me
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/emad-203/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@emad.abbad.23@gmail.com)
+
 <!--
 **imad273/imad273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
